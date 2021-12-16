@@ -1,4 +1,4 @@
-# Machine Leanring Resources & Projects
+# Machine Learning Resources & Projects
 
 ## Maintainers of this repo
 
