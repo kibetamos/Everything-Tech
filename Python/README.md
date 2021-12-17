@@ -2,5 +2,5 @@
 
 ## Maintainers of the project
 
-- Name 1
+- Kibet Amos
 - Name 2
